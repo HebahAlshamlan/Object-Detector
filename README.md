@@ -11,7 +11,7 @@ with relu and softmax activation functions.
 **Accuracy reached train is 0.7891000000190734** <br />
 **Accuracy reached Val is 0.7971** <br />
 
-# <br /> **confusing Matrix** <br />
+# <br /> **Confusing Matrix** <br />
 
 
 ![](https://github.com/HebahAlshamlan/Object-Detector/blob/master/prediction/ConfusingMatrix.JPG)
